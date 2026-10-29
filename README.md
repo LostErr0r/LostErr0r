@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=%24+whoami;CTF+player+%F0%9F%9A%A9;Security+enthusiast+%F0%9F%94%90;Writing+code+to+break+things+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 </p>
-
 ---
 
 ### 🧑‍💻 About me
