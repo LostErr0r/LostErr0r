@@ -12,7 +12,7 @@
 - 🔐 Diving deep into **information security**: learning by breaking and defending
 - 🚩 Competing in **CTF** competitions
 - 🛠️ Love writing **code** and building **security tools**
-- 🌱 Currently learning: *Web exploitation, Reverse engineering*
+- 🌱 Currently learning: *Web exploitation*
 - 📝 Sharing my CTF writeups here on GitHub
 
 ### 🛠️ Tech & Tools
