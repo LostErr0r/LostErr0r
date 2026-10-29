@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sergey Bykov</h1>
+<h1 align="center">Hi there 👋, I'm Lost Error</h1>
 <h3 align="center">InfoSec enthusiast · CTF player · Tool builder 🚩</h3>
 
 <p align="center">
