@@ -38,8 +38,7 @@
 ### 📫 Contact
 
 <p>
-  <a href="https://ctftime.org/user/YOUR_ID"><img src="https://img.shields.io/badge/CTFtime-FF0000?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://t.me/YOUR_USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/L0stErr0r"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>"There is no patch for human curiosity."</i> 🔓</p>
